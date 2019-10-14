@@ -1,15 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
 #The rules of Pig are simple. The game features two players, whose goal is to reach 100 points first. Each
 #turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the
 #rolls (i.e. the turn total)
-
-#!user/bin/env python
-# -*- coding: utf-8 -*-
 
 import random
 import sys
@@ -183,10 +177,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# In[ ]:
-
-
-
-
